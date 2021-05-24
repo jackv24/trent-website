@@ -1,9 +1,9 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Trent Vine"
+title: "Trent Vine"
 subtitle: |
   Reigning Record's pop artist
-content : |
+content: |
   Growing up in a strict environment, Trent Vine wasn't allowed to be an artist.
   <br>
   Though he was warned of the obstacles to deter him, Trent yearned to branch out. Using both his Australian and Japanese roots, he began to pave his own path as a versatile artist.
@@ -15,7 +15,7 @@ content : |
   Though he may experience a few thorns in his side,
   Why turn a new leaf, when you can enjoy the entanglement.
 button:
-  label : "Linktree"
-  link : "https://linktr.ee/trentvine"
-image : "images/portrait.jpg"
+  label: "Linktree"
+  link: "https://linktr.ee/trentvine"
+image: "images/portrait.jpg"
 
