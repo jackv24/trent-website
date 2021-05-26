@@ -1,10 +1,17 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-left content-align-center image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Past Performances"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight03.jpg"
+  <ul>
+    <li><a href="https://www.facebook.com/rogueandrascal/">Rogue & Rascal</a> - 2hr set - March 2021</li>
+    <li><a href="https://www.thegov.com.au/">The Gov</a> - 5 song set - August 2020</li>
+    <li><a href="https://www.portlincolnhotel.com.au/">Port Lincoln Hotel</a> - 10 song set - April 2021</li>
+    <li>Men's Mental Health event in Cummins, SA - 1hr set - April 2021</li>
+    <li><a href="https://www.thecrownandsceptre.pub/">The Crown & Sceptre</a> - 5 song set - December 2020</li>
+    <li><a href="https://www.woodvilletownhall.com.au/">Woodville Town Hall</a> - feature artist, 1 song - May 2021</li>
+  </ul>
+# button: 
+#   label: "Learn More"
+#   link: "#"
+image: "images/bw_stage.jpg"

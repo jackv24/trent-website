@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "Streaming"
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  Kinda like if Post Malone and Justin Bieber had a love baby that was raised by J-Pop
 button: 
   label: "Spotify Artist Page"
   link: "https://open.spotify.com/artist/4F0NFknxpBDipvIXQEMKvl?si=2cj4hP1-QdG7OxWNkBnlYQ"
