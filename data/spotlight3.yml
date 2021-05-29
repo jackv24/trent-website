@@ -3,13 +3,14 @@ style: "style1 orient-left content-align-center image-position-center onscroll-i
 id: "first"
 title : "Past Performances"
 content: |
-  <ul>
-    <li><a href="https://www.facebook.com/rogueandrascal/">Rogue & Rascal</a> - 2hr set - March 2021</li>
-    <li><a href="https://www.thegov.com.au/">The Gov</a> - 5 song set - August 2020</li>
+  <ul class="alt">
+    <li><a href="https://www.zhivago.com.au/">Zhivago</a> - 3 song set - May 2021</li>
+    <li><a href="https://www.woodvilletownhall.com.au/">Woodville Town Hall</a> - feature artist, 1 song - May 2021</li>
     <li><a href="https://www.portlincolnhotel.com.au/">Port Lincoln Hotel</a> - 10 song set - April 2021</li>
     <li>Men's Mental Health event in Cummins, SA - 1hr set - April 2021</li>
+    <li><a href="https://www.facebook.com/rogueandrascal/">Rogue & Rascal</a> - 2hr set - March 2021</li>
     <li><a href="https://www.thecrownandsceptre.pub/">The Crown & Sceptre</a> - 5 song set - December 2020</li>
-    <li><a href="https://www.woodvilletownhall.com.au/">Woodville Town Hall</a> - feature artist, 1 song - May 2021</li>
+    <li><a href="https://www.thegov.com.au/">The Gov</a> - 5 song set - August 2020</li>
   </ul>
 # button: 
 #   label: "Learn More"
