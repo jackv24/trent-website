@@ -28,7 +28,7 @@
                                         }}</a></li>
                 </ul>{{ end }}
         </div>
-        {{ with .image }}<div class="image">
-                <img src="{{.}}" alt="Hugo Story" />
-        </div>{{end}}
+        <div class="image">
+                <img src="{{ .image }}" alt="{{ .alt }}" />
+        </div>
 </section>

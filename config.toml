@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Trent Vine Music"
+title = "Trent Vine - Reigning Record's pop artist"
 theme = "hugo-story"
 
 
@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "Reigning Record's pop artist"
+  description = "Kinda like if Post Malone and Justin Bieber had a love baby that was raised by J-Pop. Brace yourself for staggering vocals, fluent Japanese flow, and mainstream songs that will take over your playlists."
   logo = "images/candid-square.jpg"
   favicon = true
 

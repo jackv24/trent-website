@@ -7,7 +7,7 @@
             <li><a href="{{ .link }}" class="button primary">{{ .label }}</a></li>
         </ul>{{ end }}
     </div>
-    {{ with .image }}<div class="image">
-        <img src="{{ . }}" alt="" style="object-position: top;" />
-    </div>{{ end }}
+    <div class="image">
+        <img src="{{ .image }}" alt="{{ .alt }}" style="object-position: top;" />
+    </div>
 </section>
