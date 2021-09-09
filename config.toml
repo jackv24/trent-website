@@ -11,7 +11,7 @@ theme = "hugo-story"
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-# googleAnalytics = "your-google-analytics-id"
+googleAnalytics = "G-MV8QM3NPV3"
 
 
 ## -----------------------------------------------
@@ -24,10 +24,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   favicon = true
 
 [Params.social]
-  #github = "https://github.com/caressofsteel/"
   twitter = "https://twitter.com/trent_vine"
-  email = "trentvinemusic@gmail.com"
   instagram = "https://www.instagram.com/trentvine/"
   linkedin = "https://au.linkedin.com/in/trent-vine-91720b130"
-  #telegram = "https://telegram.org"
   facebook = "https://www.facebook.com/trentvinemusic/"
