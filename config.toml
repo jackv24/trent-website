@@ -25,7 +25,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params.social]
   #github = "https://github.com/caressofsteel/"
-  #twitter = "https://twitter.com/caressofsteel_"
+  twitter = "https://twitter.com/trent_vine"
   email = "trentvinemusic@gmail.com"
   instagram = "https://www.instagram.com/trentvine/"
   linkedin = "https://au.linkedin.com/in/trent-vine-91720b130"
