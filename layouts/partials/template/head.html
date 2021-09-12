@@ -30,4 +30,16 @@
 		<link rel="stylesheet" href="{{ ($noscript | minify).RelPermalink }}" />
 	</noscript>
 	{{end}}
+
+	<!-- Custom SCSS -->
+	{{ if .Site.IsServer }}
+	{{ $style := resources.Get "scss/custom.scss" | toCSS (dict
+	"targetPath" "assets/css/custom.css" "outputStyle" "compressed" "enableSourceMap" false) }}
+	<link rel="stylesheet" href="{{ ($style).RelPermalink }}">
+	{{ else }}
+	{{ $style := resources.Get "scss/custom.scss" | toCSS (dict
+	"targetPath" "assets/css/custom.css" "enableSourceMap" false) }}
+	<link rel="stylesheet" href="{{ ($style | minify).RelPermalink }}">
+	{{ end }}
+
 </head>

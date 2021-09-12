@@ -28,3 +28,6 @@ googleAnalytics = "G-MV8QM3NPV3"
   instagram = "https://www.instagram.com/trentvine/"
   linkedin = "https://au.linkedin.com/in/trent-vine-91720b130"
   facebook = "https://www.facebook.com/trentvinemusic/"
+
+## Custom added
+customSCSS = ["scss/custom.scss"]

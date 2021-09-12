@@ -1,12 +1,18 @@
 <article>
-    <a href="{{ .link }}" class="image">
+    <a class="image">
         <img src="{{ .thumb }}" alt="{{ .alt }}" />
     </a>
     <div class="caption">
         <h3>{{ .title }}</h3>
         <br>
-        <ul class="actions fixed">
-            <li><span class="button small">{{ .button }}</span></li>
+        <ul class="actions stacked tight">
+            {{ range .buttons }}
+            <li>
+                <a href="{{ .link }}">
+                    <span class="button primary small">{{ .text }}</span>
+                </a>
+            </li>
+            {{ end }}
         </ul>
     </div>
 </article>
