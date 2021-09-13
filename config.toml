@@ -11,7 +11,7 @@ theme = "hugo-story"
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-googleAnalytics = "G-MV8QM3NPV3"
+googleAnalytics = "G-35ZVFRD9QD"
 
 
 ## -----------------------------------------------
