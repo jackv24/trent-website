@@ -1,65 +1,25 @@
-title : "Merch"
-content: |
-  Coming Soon
+# title: "(articles)"
+# content: |
+#   (what people are saying about me)
 style: "style1 medium onscroll-fade-in"
-# items:
-#   # feature item loop
-#   - name : "One"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "style2 major fa-gem"
+items:
+  # feature item loop
+  - name: "Daily Music Roll"
+    #style : "style2 major fa-gem"
+    content: "\"The newest gem in pop music Trent Vine drops new single ‘Skip The Line’ on major streaming platforms\""
+    link: "https://www.dailymusicroll.com/latest-news/the-newest-gem-in-pop-music-trent-vine-drops-new-single-skip-the-line-on-major-streaming-platforms.html"
 
-#   # feature item loop
-#   - name : "Two"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "solid style2 major fa-save"
-    
-#   # feature item loop
-#   - name : "Three"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "solid style2 major fa-chart-bar"
-    
-#   # feature item loop
-#   - name : "Four"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "solid style2 major fa-wifi"
-    
-#   # feature item loop
-#   - name : "Five"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "solid style2 major fa-cog"
-    
-#   # feature item loop
-#   - name : "Six"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "style2 major fa-paper-plane"
-    
-#   # feature item loop
-#   - name : "Seven"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "solid style2 major fa-desktop"
-    
-#   # feature item loop
-#   - name : "Eight"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "solid style2 major fa-sync-alt"
-    
-#   # feature item loop
-#   - name : "Nine"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "solid style2 major fa-hashtag"
-    
-#   # feature item loop
-#   - name : "Ten"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "solid style2 major fa-bolt"
-    
-#   # feature item loop
-#   - name : "Eleven"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "style2 major fa-envelope"
-    
-#   # feature item loop
-#   - name : "Twelve"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-#     style : "solid style2 major fa-leaf"
-    
+  - name: "African Hype"
+    #style : "style2 major fa-gem"
+    content: "\"Trent Vine Has Etched Out Great Vocals and Strong Melody in His New Single “Burberry On The Floor”\""
+    link: "https://africanhype.com/trent-vine-burberry-on-the-floor/amp/"
+
+  - name: "Ratings Game Music"
+    #style : "style2 major fa-gem"
+    content: "\"Trent Vine Warms Our Souls With “Weed & Caviar”\""
+    link: "https://ratingsgamemusic.com/2021/03/06/trent-vine-warms-our-souls-with-weed-caviar/"
+
+  - name: "Global Money World"
+    #style : "style2 major fa-gem"
+    content: "\"Trent Vine “Weed & Caviar” is the perfect statement record to show how big time he will be\""
+    link: "https://globalmoneyworld.com/index.php/2021/01/02/trent-vine-weed-caviar/"
