@@ -1,6 +1,13 @@
 title: "Singles"
 style: "style2 medium lightbox onscroll-fade-in"
 pictures:
+  - title: "Who You Wanna Be"
+    thumb: "images/albums/wannabe.jpg"
+    alt: ""
+    buttons:
+      - text: "Stream"
+        link: "https://stream.trentvinemusic.com/wannabe"
+
   - title: "Burberry On The Floor"
     thumb: "images/albums/burberry.jpg"
     alt: "Album art featuring a cartoon version of Trent holding a guitar, with a lightbulb as the head of the guitar."

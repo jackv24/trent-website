@@ -1,0 +1,40 @@
+{{ $jQuery := resources.Get "js/jquery.min.js" }}
+{{ $scrollex := resources.Get "js/jquery.scrollex.min.js" }}
+{{ $scrolly := resources.Get "js/jquery.scrolly.min.js" }}
+{{ $browser := resources.Get "js/browser.min.js" }}
+{{ $breakpoints := resources.Get "js/breakpoints.min.js" }}
+{{ $util := resources.Get "js/util.js" }}
+{{ $main := resources.Get "js/main.js" }}
+{{ $demo := resources.Get "js/demo.js" }}
+
+{{ $js := slice $jQuery $scrollex $scrolly $browser $breakpoints $util $main $demo | resources.Concat
+"assets/js/bundle.js" | minify }}
+
+<!-- Scripts -->
+<script src='{{ $js.RelPermalink }}'></script>
+
+<script src="js/corner-popup.min.js"></script>
+<script>
+  $('document').ready(function () {
+    // Don't show popup if closed in this session
+    const closedKey = 'newsingle_wannabe';
+    const result = sessionStorage.getItem(closedKey);
+    if (result === 'closed') {
+      return;
+    }
+
+    $.fn.cornerpopup({
+      variant: 1,
+      popupImg: 'images/albums/wannabe.jpg',
+      header: 'New Single:\nWho You Wanna Be',
+      button1: 'Stream',
+      onBtnClick: function () {
+        window.open('https://stream.trentvinemusic.com/wannabe', '_blank');
+      },
+      // Save popup closed
+      afterPopup: function () {
+        sessionStorage.setItem(closedKey, 'closed');
+      }
+    });
+  });
+</script>

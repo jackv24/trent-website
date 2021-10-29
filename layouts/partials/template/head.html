@@ -31,6 +31,8 @@
 	</noscript>
 	{{end}}
 
+	<link rel="stylesheet" href="css/corner-popup.min.css">
+
 	<!-- Custom SCSS -->
 	{{ if .Site.IsServer }}
 	{{ $style := resources.Get "scss/custom.scss" | toCSS (dict
