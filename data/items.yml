@@ -6,20 +6,24 @@ items:
   # feature item loop
   - name: "Daily Music Roll"
     #style : "style2 major fa-gem"
-    content: "\"The newest gem in pop music Trent Vine drops new single ‘Skip The Line’ on major streaming platforms\""
+    content: '"The newest gem in pop music Trent Vine drops new single ‘Skip The Line’ on major streaming platforms"'
     link: "https://www.dailymusicroll.com/latest-news/the-newest-gem-in-pop-music-trent-vine-drops-new-single-skip-the-line-on-major-streaming-platforms.html"
 
   - name: "African Hype"
     #style : "style2 major fa-gem"
-    content: "\"Trent Vine Has Etched Out Great Vocals and Strong Melody in His New Single “Burberry On The Floor”\""
+    content: '"Trent Vine Has Etched Out Great Vocals and Strong Melody in His New Single “Burberry On The Floor”"'
     link: "https://africanhype.com/trent-vine-burberry-on-the-floor/amp/"
 
   - name: "Ratings Game Music"
     #style : "style2 major fa-gem"
-    content: "\"Trent Vine Warms Our Souls With “Weed & Caviar”\""
+    content: '"Trent Vine Warms Our Souls With “Weed & Caviar”"'
     link: "https://ratingsgamemusic.com/2021/03/06/trent-vine-warms-our-souls-with-weed-caviar/"
 
   - name: "Global Money World"
     #style : "style2 major fa-gem"
-    content: "\"Trent Vine “Weed & Caviar” is the perfect statement record to show how big time he will be\""
+    content: '"Trent Vine “Weed & Caviar” is the perfect statement record to show how big time he will be"'
     link: "https://globalmoneyworld.com/index.php/2021/01/02/trent-vine-weed-caviar/"
+
+  - name: "Lyrics & Threads"
+    content: '"The Track is ‘Who You Wanna Be’. Its a complete vibe from lyrics to the overall quality of the track."'
+    link: "http://lyricsandthreads.com/trent-vine-who-you-wanna-be/"
