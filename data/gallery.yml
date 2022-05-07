@@ -52,3 +52,10 @@ pictures:
         link: "https://open.spotify.com/track/2GFmj3FjWiv6xpmti9c5us?si=cb05435b52654a26"
       - text: "Apple Music"
         link: "https://music.apple.com/au/album/weed-caviar/1544786250?i=1544786252"
+
+  - title: "Who You Know"
+    thumb: "images/albums/know.jpg"
+    alt: "Album art with a cartoon hand holding a phone, displaying messages."
+    buttons:
+      - text: "Stream"
+        link: "https://createmusic.fm/whoyouknow"
