@@ -59,3 +59,10 @@ pictures:
     buttons:
       - text: "Stream"
         link: "https://createmusic.fm/whoyouknow"
+
+  - title: "Give More Than I Get"
+    thumb: "images/albums/givemoreget.jpg"
+    alt: "Album art with Trent standing next to a woman holding shopping bags."
+    buttons:
+      - text: "Stream"
+        link: "https://unitedmasters.com/m/62753871daee913da093d88b"
