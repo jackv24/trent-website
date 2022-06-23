@@ -58,11 +58,18 @@ pictures:
     alt: "Album art with a cartoon hand holding a phone, displaying messages."
     buttons:
       - text: "Stream"
-        link: "https://createmusic.fm/whoyouknow"
+        link: "https://stream.trentvinemusic.com/whoyouknow"
 
   - title: "Give More Than I Get"
     thumb: "images/albums/givemoreget.jpg"
     alt: "Album art with Trent standing next to a woman holding shopping bags."
     buttons:
       - text: "Stream"
-        link: "https://unitedmasters.com/m/62753871daee913da093d88b"
+        link: "https://stream.trentvinemusic.com/givemorethaniget"
+
+  - title: "Cosby Sweater"
+    thumb: "images/albums/cosbysweater.jpeg"
+    alt: "Album art of an anime girl with black & pink hair, wearing just a loose fitting pink sweater"
+    buttons:
+      - text: "Stream"
+        link: "https://stream.trentvinemusic.com/cosbysweater"
