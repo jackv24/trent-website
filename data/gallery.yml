@@ -73,3 +73,10 @@ pictures:
     buttons:
       - text: "Stream"
         link: "https://stream.trentvinemusic.com/cosbysweater"
+
+  - title: "H8 ME 2"
+    thumb: "images/albums/h8me2.jpg"
+    alt: ""
+    buttons:
+      - text: "Stream"
+        link: "https://stream.trentvinemusic.com/h8me2"
