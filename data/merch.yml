@@ -1,2 +1,10 @@
 title : "Merch"
 style: "style1 medium onscroll-fade-in"
+embed:
+  content: |
+      <div class="iframely-embed">
+          <div class="iframely-responsive" style="height: 140px; padding-bottom: 0;">
+              <a href="https://marqleen.thebase.in/items/40423289" data-iframely-url="//iframely.net/iQmeVxC"></a>
+          </div>
+      </div>
+      <script async src="//iframely.net/embed.js" charset="utf-8"></script>

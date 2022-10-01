@@ -1,2 +1,2 @@
-hugo extended-0.85.0
-nodejs 14.17.3
+hugo 0.104.2
+nodejs lts-gallium
