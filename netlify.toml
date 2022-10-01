@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --gc -b $URL"
 
 [context.production.environment]
-HUGO_VERSION = "0.85.0"
+HUGO_VERSION = "0.104.2"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 GIT_LFS_ENABLED = "true"
@@ -12,12 +12,12 @@ GIT_LFS_ENABLED = "true"
 command = "hugo --gc --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.85.0"
+HUGO_VERSION = "0.104.2"
 GIT_LFS_ENABLED = "true"
 
 [context.branch-deploy]
 command = "hugo --gc -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.85.0"
+HUGO_VERSION = "0.104.2"
 GIT_LFS_ENABLED = "true"
