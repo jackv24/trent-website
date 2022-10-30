@@ -1,6 +1,13 @@
 title: "Singles"
 style: "style2 medium lightbox onscroll-fade-in"
 pictures:
+  - title: "I Don't Mind"
+    thumb: "images/albums/dontmind.jpg"
+    alt: ""
+    buttons:
+      - text: "Stream"
+        link: "https://stream.trentvinemusic.com/Idontmind"
+
   - title: "H8 ME 2"
     thumb: "images/albums/h8me2.jpg"
     alt: ""
