@@ -1,6 +1,13 @@
 title: "Singles"
 style: "style2 medium lightbox onscroll-fade-in"
 pictures:
+  - title: "Double Tap"
+    thumb: "images/albums/doubletap.jpg"
+    alt: ""
+    buttons:
+      - text: "Stream"
+        link: "https://stream.trentvinemusic.com/doubletap"
+
   - title: "I Don't Mind"
     thumb: "images/albums/dontmind.jpg"
     alt: ""
