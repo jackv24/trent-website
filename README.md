@@ -1,6 +1,12 @@
 # Instructions
 
-Change to the `dev` branch, then open this repo using GitHub Codespaces.
+Change to the `dev` branch:
+
+![Screenshot of GitHub repo showing how to change branch](docs/github-branch.png)
+
+then open this repo using GitHub Codespaces:
+
+![Screenshot of GitHub repo showing how to open Codespaces](docs/codespace-open.png)
 
 ## Run site preview
 
@@ -25,7 +31,11 @@ Change to the `dev` branch, then open this repo using GitHub Codespaces.
 
 ## Publishing
 
-1. Commit your changes and push to `dev` branch
+1. Stage and commit your changes and push to `dev` branch:
+
+  ![Stage all changes](docs/code-stage.png)
+  ![Stage all changes](docs/code-commit.png)
+
 2. Wait for Netlify to build the site, then check [dev.trentvinemusic.com](https://dev.trentvinemusic.com/)
 3. If all looks good, merge the `dev` branch into `main`:
     - Press `Command` + ` to open the Terminal
