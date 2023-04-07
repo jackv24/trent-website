@@ -17,12 +17,16 @@
             "NODE_VERSION": "16"
         }
     },
-    // Add the IDs of extensions you want installed when the container is created.
-    "extensions": [
-        "bungcip.better-toml",
-        "davidanson.vscode-markdownlint",
-        "rusnasonov.vscode-hugo"
-    ],
+    "customizations": {
+        "vscode": {
+            // Add the IDs of extensions you want installed when the container is created.
+            "extensions": [
+                "bungcip.better-toml",
+                "davidanson.vscode-markdownlint",
+                "rusnasonov.vscode-hugo"
+            ]
+        }
+    },
     // Use 'forwardPorts' to make a list of ports inside the container available locally.
     "forwardPorts": [
         1313
